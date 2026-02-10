@@ -1,2 +1,8 @@
-# certifications
-A curated collection of my professional certifications demonstrating expertise in API integrations, frontend development, and modern web technologies.
+# Professional Certifications
+
+This repository contains verified copies of my professional certifications.
+
+## 2026
+- Postman API Fundamentals Student Expert – February 2026
+
+(Future certifications will be added here.)
