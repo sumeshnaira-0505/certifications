@@ -7,5 +7,7 @@ This repository contains verified copies of my professional certifications.
 - Scrum Fundamentals Certified – February 2026
 - Six Sigma Yellow Belt – February 2026
 - Kanban Essentials with AI Certified – February 2026
+- Business Analysis Fundamentals with AI Certified – February 2026
+- OKR Fundamentals with AI Certified – February 2026
 
 (Future certifications will be added here.)
