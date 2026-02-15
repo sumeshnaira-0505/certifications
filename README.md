@@ -9,5 +9,7 @@ This repository contains verified copies of my professional certifications.
 - Kanban Essentials with AI Certified – February 2026
 - Business Analysis Fundamentals with AI Certified – February 2026
 - OKR Fundamentals with AI Certified – February 2026
+- Marketing Strategy Fundamentals – February 2026
+- Digital Marketing Fundamentals – February 2026
 
 (Future certifications will be added here.)
