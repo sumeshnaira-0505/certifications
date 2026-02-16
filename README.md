@@ -11,5 +11,6 @@ This repository contains verified copies of my professional certifications.
 - OKR Fundamentals with AI Certified – February 2026
 - Marketing Strategy Fundamentals – February 2026
 - Digital Marketing Fundamentals – February 2026
+- Marketing Research Fundamentals – February 2026
 
 (Future certifications will be added here.)
