@@ -12,5 +12,6 @@ This repository contains verified copies of my professional certifications.
 - Marketing Strategy Fundamentals – February 2026
 - Digital Marketing Fundamentals – February 2026
 - Marketing Research Fundamentals – February 2026
+- Corporate Sales Fundamentals – February 2026
 
 (Future certifications will be added here.)
