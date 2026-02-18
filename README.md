@@ -14,5 +14,6 @@ This repository contains verified copies of my professional certifications.
 - Marketing Research Fundamentals – February 2026
 - Corporate Sales Fundamentals – February 2026
 - Negotiation Associate – February 2026
+- Legacy Responsive Web Design V8 – February 2026
 
 (Future certifications will be added here.)
