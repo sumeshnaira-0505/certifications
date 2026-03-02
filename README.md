@@ -17,5 +17,6 @@ This repository contains verified copies of my professional certifications.
 - Legacy Responsive Web Design V8 – February 2026
 - Dive Deeper into GA4 Data and Reports – March 2026
 - Get Started using Google Analytics (GA4) – March 2026
+- Google Analytics Certification – March 2026
 
 (Future certifications will be added here.)
