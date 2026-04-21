@@ -19,5 +19,6 @@ This repository contains verified copies of my professional certifications.
 - Get Started using Google Analytics (GA4) – March 2026
 - Google Analytics Certification – March 2026
 - Fundamentals of Artificial Intelligence – April 2026
+- ChatGPT – April 2026
 
 (Future certifications will be added here.)
