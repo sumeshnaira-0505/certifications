@@ -21,5 +21,8 @@ This repository contains verified copies of my professional certifications.
 - Fundamentals of Artificial Intelligence – April 2026
 - ChatGPT – April 2026
 - Claude 101 – April 2026
+- AI Fluency Framework & Foundations – April 2026
+- AI Capabilities and Limitations – April 2026
+- Claude Code in Action – April 2026
 
 (Future certifications will be added here.)
