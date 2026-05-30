@@ -24,5 +24,8 @@ This repository contains verified copies of my professional certifications.
 - AI Fluency Framework & Foundations – April 2026
 - AI Capabilities and Limitations – April 2026
 - Claude Code in Action – April 2026
+- Claude Code 101 – May 2026
+- Introduction to Claude Cowork – May 2026
+- Building with the Claude API – May 2026
 
 (Future certifications will be added here.)
