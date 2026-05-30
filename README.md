@@ -27,5 +27,6 @@ This repository contains verified copies of my professional certifications.
 - Claude Code 101 – May 2026
 - Introduction to Claude Cowork – May 2026
 - Building with the Claude API – May 2026
+- Introduction to Model Context Protocol – May 2026
 
 (Future certifications will be added here.)
