@@ -34,5 +34,6 @@ This repository contains verified copies of my professional certifications.
 - Introduction to subagents – June 2026
 - Introduction to agent skills – June 2026
 - AI Fluency for nonprofits – June 2026
+- Teaching AI Fluency – June 2026
 
 (Future certifications will be added here.)
